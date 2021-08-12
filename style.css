@@ -16,7 +16,7 @@ body{
 .card{
     width: 350px;
     height: 400px;
-    background-color: rgb(230, 230, 230);
+    background-color: white;
     overflow: hidden;
     border-radius: 5%;
     position: absolute;
